@@ -1,6 +1,19 @@
 # Secure Login System
 
-![](https://imgur.com/vTlmcrM.png)
+home.html
+![home.html](https://imgur.com/vTlmcrM.png)
+
+login.html
+![login.html](https://imgur.com/oOQmOAL.png)
+
+register.html 
+![register.html](https://imgur.com/xKvIAcF.png)
+
+404.html 
+![404.html ](https://imgur.com/oYzXxMP.png)
+
+Account lockout for 5 minutes
+![Account lockout for 5 minutes](https://imgur.com/bOwJYVo.png)
 
 ## Overview
 This project is a secure login system built using Flask, a lightweight Python web framework. It demonstrates best practices in web authentication, password storage, and brute-force attack prevention.
