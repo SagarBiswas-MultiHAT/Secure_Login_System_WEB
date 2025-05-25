@@ -1,5 +1,7 @@
 # Secure Login System
 
+![](https://imgur.com/vTlmcrM.png)
+
 ## Overview
 This project is a secure login system built using Flask, a lightweight Python web framework. It demonstrates best practices in web authentication, password storage, and brute-force attack prevention.
 
