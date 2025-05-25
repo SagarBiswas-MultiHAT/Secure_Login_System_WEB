@@ -61,6 +61,3 @@ templates/            # HTML templates
 - **Backend**: Flask (Python)
 - **Frontend**: HTML, CSS
 - **Database**: SQLite
-
-## License
-This project is open-source and available under the MIT License.
