@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+    <link rel="stylesheet" href="/static/styles.css">
+    <style>
+        .homeLinks {
+            display: inline-block;
+            margin: 10px;
+            padding: 10px 20px;
+            background-color: red;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+
+        .homeLinks:hover {
+            background-color: darkred;
+        }
+
+        .loginButton {
+            position: relative;
+            left: 560px;
+        }
+
+        .registerButton {
+            position: relative;
+            left: 635px;
+        }
+    </style>
+</head>
+
+<body>
+    <h1><br>Welcome to the Secure Login System</h1>
+    <br>
+    <!-- adding a img -->
+    <img src="/static/pic1.jpg" alt="Secure Login Image"
+        style="display: block; margin: 0 auto; width: 300px; height: auto;">
+    <p style="text-align: center; font-size: 20px;">..:: choose an option ::..</p>
+    <br>
+    <a class="homeLinks loginButton" href="/login">Login</a>
+    <a class="homeLinks registerButton" href="/register">Register</a>
+</body>
+
+</html>
